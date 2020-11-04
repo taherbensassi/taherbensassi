@@ -44,6 +44,8 @@ This Template is from a very inspiring friend - Software developer/engineer. - [
 ![](https://img.shields.io/badge/java-brightgreenl?style=flat&logo=java&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Haskell-brightgreenl?style=flat&logo=haskell&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/spirng-boot-brightgreenl?style=flat&logo=spring&logoColor=white&color=orange)
+![](https://img.shields.io/badge/DDEV-brightgreenl?style=flat&logo=ddev&logoColor=white&color=orange)
+![](https://img.shields.io/badge/docker-brightgreenl?style=flat&logo=docker&logoColor=white&color=orange)
 
 
 
