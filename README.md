@@ -51,5 +51,5 @@ This Template is from a very inspiring friend - Software developer/engineer. - [
 
 ### Summary
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=TaherBenSassi&show_icons=true&include_all_commits=true)](https://github.com/RebaiAhmed/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaherBenSassi&layout=compact)](https://github.com/RebaiAhmed/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=TaherBenSassi&show_icons=true&include_all_commits=true)](https://github.com/taherbensassi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaherBenSassi&layout=compact)](https://github.com/taherbensassi/github-readme-stats)
