@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello I'm Taher
-##### I'm a Web Developer
+##### I'm a Software Developer Student 
 
 [![Gmail Badge](https://img.shields.io/badge/-taher.sassi.isamm@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:taher.sassi.isamm@gmail.com)](mailto:taher.sassi.isamm@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/taherbensassi/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/taherbensassi//)](https://www.linkedin.com/in/taherbensassi/)
